@@ -1,0 +1,4 @@
+CarpetCostEstimator cce = new CarpetCostEstimator(4.0);
+cce.getPrice();
+cce.getLabourCharge();
+cce.getPostCode();
